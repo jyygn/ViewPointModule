@@ -11,7 +11,7 @@ import com.letv.mobile.core.log.Logger;
 import com.letv.mobile.player.highlight.viewpoint.bean.ThumImgGroup;
 
 /**
- * 视点图阅读器
+ * 视点图文件
  * @author yangn
  */
 public class ViewPointsFile {
